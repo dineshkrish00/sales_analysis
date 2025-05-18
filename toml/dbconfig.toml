@@ -1,0 +1,12 @@
+PostgresDBServer = "192.168.2.173"
+PostgresDBPort = 5432
+PostgresDBUser = "root"
+PostgresDBPassword = "root"
+PostgresDBDatabase = "Krishna"
+PostgresDBType = "postgres"
+
+
+
+DB_Max_Open_Connection = "100"
+DB_Max_Idle_Connection = "10"
+DB_Max_Idle_Time = "20"

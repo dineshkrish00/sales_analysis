@@ -1,0 +1,10 @@
+
+FilePath="./sampleCsv/Sales_data.csv"
+
+TriggerStatus = "Y"
+
+#TriggerStatus = "N"
+
+
+ScheduleHour ="8"
+ScheduleMinute ="30"
