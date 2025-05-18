@@ -5,7 +5,7 @@ This project provides an API for processing and managing large sales datasets. T
 ---
 ## Git Clone URL
 ```
-git@github.com:dineshkrish00/sales_report.git
+https://github.com/dineshkrish00/sales_analysis.git
 ```
 
 ## Install Dependencies
