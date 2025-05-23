@@ -130,7 +130,7 @@ This endpoint retrieves sales revenue data based on the provided date range and 
 ```
 ---
 
-### 3. **POST /fetchRevenue**
+### 3. **POST /fetchProductDetails
 
 **URL**: `http://localhost:29001/fetchProductDetails`
 
